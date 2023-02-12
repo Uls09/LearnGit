@@ -1,2 +1,2 @@
  This is a Test sample created in local git Repo.
- This new line update is done in Git-hub 
+ This new line update is done in Git-hub remote repo
